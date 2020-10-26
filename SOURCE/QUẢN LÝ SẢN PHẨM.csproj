@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{97C91E9A-6ABA-4956-A639-0E9AE7C63DF7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QUẢN_LÝ_SẢN_PHẨM</RootNamespace>
+    <AssemblyName>QUẢN LÝ SẢN PHẨM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>QUẢN_LÝ_SẢN_PHẨM.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class_Funcs.cs" />
+    <Compile Include="Frm_PN_SP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_PN_SP.Designer.cs">
+      <DependentUpon>Frm_PN_SP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_PX_SP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_PX_SP.Designer.cs">
+      <DependentUpon>Frm_PX_SP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_PX_VT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_PX_VT.Designer.cs">
+      <DependentUpon>Frm_PX_VT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_PN_VT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_PN_VT.Designer.cs">
+      <DependentUpon>Frm_PN_VT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_SP_XUAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_SP_XUAT.Designer.cs">
+      <DependentUpon>Frm_KHO_SP_XUAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_SP_NHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_SP_NHAP.Designer.cs">
+      <DependentUpon>Frm_KHO_SP_NHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_SP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_SP.Designer.cs">
+      <DependentUpon>Frm_KHO_SP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_SP_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_SP_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_KHO_SP_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_BP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_BP.Designer.cs">
+      <DependentUpon>Frm_BP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_BP_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_BP_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_BP_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_VT_XUAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_VT_XUAT.Designer.cs">
+      <DependentUpon>Frm_KHO_VT_XUAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NH.Designer.cs">
+      <DependentUpon>Frm_NH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NH_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NH_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_NH_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NTK.Designer.cs">
+      <DependentUpon>Frm_NTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NTK_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NTK_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_NTK_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NKH_NCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NKH_NCC.Designer.cs">
+      <DependentUpon>Frm_NKH_NCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NKH_NCC_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NKH_NCC_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_NKH_NCC_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NGH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NGH.Designer.cs">
+      <DependentUpon>Frm_NGH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NGH_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NGH_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_NGH_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DVT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DVT.Designer.cs">
+      <DependentUpon>Frm_DVT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DVT_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DVT_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_DVT_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_VT_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_VT_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_KHO_VT_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_VT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_VT.Designer.cs">
+      <DependentUpon>Frm_KHO_VT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NCC.Designer.cs">
+      <DependentUpon>Frm_NCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NCC_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NCC_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_NCC_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHACH_HANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHACH_HANG.Designer.cs">
+      <DependentUpon>Frm_KHACH_HANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHACH_HANG_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHACH_HANG_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_KHACH_HANG_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO.Designer.cs">
+      <DependentUpon>Frm_KHO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_KHO_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_KHO_VT_NHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_KHO_VT_NHAP.Designer.cs">
+      <DependentUpon>Frm_KHO_VT_NHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TAI_KHOAN_CHI_TIET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TAI_KHOAN_CHI_TIET.Designer.cs">
+      <DependentUpon>Frm_TAI_KHOAN_CHI_TIET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TAI_KHOAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TAI_KHOAN.Designer.cs">
+      <DependentUpon>Frm_TAI_KHOAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_CHCSDL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_CHCSDL.Designer.cs">
+      <DependentUpon>Frm_CHCSDL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_LOGIN.Designer.cs">
+      <DependentUpon>Frm_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_MAIN.Designer.cs">
+      <DependentUpon>Frm_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_THONG_TIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_THONG_TIN.Designer.cs">
+      <DependentUpon>Frm_THONG_TIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VMK_DAO_FOR_MS_SQL.cs" />
+    <EmbeddedResource Include="Frm_PN_SP.resx">
+      <DependentUpon>Frm_PN_SP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_PX_SP.resx">
+      <DependentUpon>Frm_PX_SP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_PX_VT.resx">
+      <DependentUpon>Frm_PX_VT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_PN_VT.resx">
+      <DependentUpon>Frm_PN_VT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_SP_XUAT.resx">
+      <DependentUpon>Frm_KHO_SP_XUAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_SP_NHAP.resx">
+      <DependentUpon>Frm_KHO_SP_NHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_SP.resx">
+      <DependentUpon>Frm_KHO_SP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_SP_CHI_TIET.resx">
+      <DependentUpon>Frm_KHO_SP_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_BP.resx">
+      <DependentUpon>Frm_BP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_BP_CHI_TIET.resx">
+      <DependentUpon>Frm_BP_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_VT_XUAT.resx">
+      <DependentUpon>Frm_KHO_VT_XUAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NH.resx">
+      <DependentUpon>Frm_NH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NH_CHI_TIET.resx">
+      <DependentUpon>Frm_NH_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NTK.resx">
+      <DependentUpon>Frm_NTK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NTK_CHI_TIET.resx">
+      <DependentUpon>Frm_NTK_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NKH_NCC.resx">
+      <DependentUpon>Frm_NKH_NCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NKH_NCC_CHI_TIET.resx">
+      <DependentUpon>Frm_NKH_NCC_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NGH.resx">
+      <DependentUpon>Frm_NGH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NGH_CHI_TIET.resx">
+      <DependentUpon>Frm_NGH_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DVT.resx">
+      <DependentUpon>Frm_DVT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DVT_CHI_TIET.resx">
+      <DependentUpon>Frm_DVT_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_VT_CHI_TIET.resx">
+      <DependentUpon>Frm_KHO_VT_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_VT.resx">
+      <DependentUpon>Frm_KHO_VT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NCC.resx">
+      <DependentUpon>Frm_NCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NCC_CHI_TIET.resx">
+      <DependentUpon>Frm_NCC_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHACH_HANG.resx">
+      <DependentUpon>Frm_KHACH_HANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHACH_HANG_CHI_TIET.resx">
+      <DependentUpon>Frm_KHACH_HANG_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO.resx">
+      <DependentUpon>Frm_KHO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_CHI_TIET.resx">
+      <DependentUpon>Frm_KHO_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_KHO_VT_NHAP.resx">
+      <DependentUpon>Frm_KHO_VT_NHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TAI_KHOAN_CHI_TIET.resx">
+      <DependentUpon>Frm_TAI_KHOAN_CHI_TIET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TAI_KHOAN.resx">
+      <DependentUpon>Frm_TAI_KHOAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_CHCSDL.resx">
+      <DependentUpon>Frm_CHCSDL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LOGIN.resx">
+      <DependentUpon>Frm_LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MAIN.resx">
+      <DependentUpon>Frm_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_THONG_TIN.resx">
+      <DependentUpon>Frm_THONG_TIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+    <None Include="Resource\Background_Form_ThongTin.png" />
+    <None Include="Resource\Background_Color.png" />
+    <None Include="Resource\Background_Image.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

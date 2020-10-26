@@ -1,0 +1,79 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\bin\Debug\QUẢN LÝ SẢN PHẨM.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Main.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\QUẢN LÝ SẢN PHẨM\bin\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM\QUẢN LÝ SẢN PHẨM\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.pdb
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.exe
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.pdb
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.exe
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.pdb
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Main.resources
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Properties.Resources.resources
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.csproj.GenerateResource.Cache
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_CauHinhCSDL.resources
+E:\CODING\QUẢN LÝ SẢN PHẨM - 2016.01.21\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Login.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_CauHinhCSDL.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Login.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Main.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Properties.Resources.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_ThongTin.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.25\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NTK.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_CauHinhCSDL.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Login.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Main.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NTK.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_ThongTin.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Properties.Resources.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.26\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NH_NGH_DVT.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_CauHinhCSDL.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Login.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Main.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NTK.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_ThongTin.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Properties.Resources.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_DVT.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NGH.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.27\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NH.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.exe
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\bin\Debug\QUẢN LÝ SẢN PHẨM.pdb
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NH.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NGH.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_DVT.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_CauHinhCSDL.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Login.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_Main.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_NTK.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Frm_ThongTin.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\QUẢN_LÝ_SẢN_PHẨM.Properties.Resources.resources
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\QUẢN LÝ SẢN PHẨM - 2016.01.28\QUẢN LÝ SẢN PHẨM - SOURCE\obj\x86\Debug\GenerateResource.write.1.tlog
